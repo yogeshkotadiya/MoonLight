@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # gatsby-starter-default
 The default Gatsby starter.
 
@@ -28,4 +27,3 @@ npm run develop
 =======
 # MoonLight
 MoonLight is GatsbyJS based Static Site
->>>>>>> f40494b4349cd4af856d6c35a9c78290fa8b8ecf
